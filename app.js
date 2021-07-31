@@ -22,7 +22,7 @@ const quizData = [
     a: "Hypertext Markup Language",
     b: "Hypertext Markdown Language",
     c: "Hyperloop Machine Language",
-    d: "Helicopters Terminals Motorboats",
+    d: "Helicopters Terminals Motorboats Lamborginis",
     correct: "a",
   },
 
